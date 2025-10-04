@@ -44,7 +44,3 @@ python mediapipe_landmarks_test.py
 ## Notes
 - Ensure your webcam is connected and accessible by OpenCV.
 - If you run into import or dependency issues, confirm the Python interpreter and virtual environment are correct.
-
-## License
-This project does not include a license file. Add one (for example, `MIT`) if you plan to publish or share the code.
-# eye-gaze-face-tracker
